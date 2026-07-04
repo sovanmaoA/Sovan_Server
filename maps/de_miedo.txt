@@ -1,0 +1,24 @@
+de_miedo (Bomb/Defuse)
+Map created by m3owth [for the 2016 Waterpark Contest]
+
+Description:
+The terrorists are planning to detonate a well-known waterpark to show their disagreement to the Spanish government. They already breached the area and searched for available bomb spots.
+Luckily, there's no casualties reported.
+
+Terrorists- Arm the bomb to one of the bombsites in the area. Take out all enemies on sight.
+
+Counter-terrorists- Stop their plans and neutralize the opposing force as needed.
+
+Note: Watch your surroundings, as the map is small to be explored by others.
+
+Additional Note: There are two bomb spots in the mission, one in the stairs area just near the balcony. The other ones is in the pipes inside the restricted area.
+
+Credits:
+Textures: -s2k- Madness
+Lapras & Clefairy Model: Gamefreak
+Beach Sound: Mike Koenig
+Others: Meowth, Nexon, Valve Corporation
+
+Special Thanks:
+hellmonja - For criticism and custom texture additions
+CS PRO - For criticism and constructive feedback

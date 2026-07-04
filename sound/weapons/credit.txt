@@ -1,0 +1,7 @@
+Credit
+=========
+skript 47 : convert PB to GTA
+fadli : convert GTA to CS
+zeppetto : mp5k model and texture
+balistic : animations, hand and bones
+Nexon	: hand model and texture

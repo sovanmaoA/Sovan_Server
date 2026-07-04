@@ -1,0 +1,7 @@
+St.Marc - Bomb Defusion
+
+The coastal port town of Saint-Marc, Haiti, deep in the Caribbean. The Terrorist Pirate faction fight against the Counter-Terrorist GIGN over a truck carrying chemical weapons.
+
+Counter-Terrorists: Prevent Terrorists from bombing chemical weapons truck. Team members must defuse any bombs that threaten targeted area.
+
+Terrorists: The Terrorist carrying the C4 must destroy the chemical weapon truck.

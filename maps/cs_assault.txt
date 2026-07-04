@@ -1,0 +1,21 @@
+Assault - Hostage Rescue
+
+The Terrorist has capture the Parker Buildings Materials Inc 
+and take 4 hostages.
+They demand a ransom for hostages.The Terrorist will not cooperate
+and will kill the hostages if they need wont fulfilled.
+
+Counter-terrorist : Enter the warehouse and
+rescue the hostages.Take out the terrorist
+without jeopardize the hostages.
+
+Terrorist : Prevent the Counter terrorist from
+rescue the hostages.
+
+Notes : there are 4 hostages in this mission
+
+Credits :
+
+Original by CryptR
+
+  
